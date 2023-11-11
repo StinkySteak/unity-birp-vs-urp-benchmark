@@ -1,5 +1,5 @@
 # Warning: This project now is discontinued. Please use the new Github Repo below!
-[New Benchmark](https://github.com/StinkySteak/unity-birp-vs-urp-benchmark-v2)
+[New Benchmark Repository](https://github.com/StinkySteak/unity-birp-vs-urp-benchmark-v2)
 
 
 ### Unity BiRP vs URP Benchmark
